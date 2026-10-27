@@ -107,7 +107,7 @@
     {
         "path": "/authors/henry-m-cooke/index.html",
         "type": "file",
-        "md5": "54a5aee814ac5c350cb05c51c9211dae"
+        "md5": "a2f6432608389db72c4a7902f439179a"
     },
     {
         "path": "authors/henry-m-cooke/page",
@@ -122,7 +122,7 @@
     {
         "path": "/authors/henry-m-cooke/page/2/index.html",
         "type": "file",
-        "md5": "800c87452b5a1f0914cf109c53cdfc2e"
+        "md5": "b3a1fcb7e682576333bbcbd371795af7"
     },
     {
         "path": "bamboo-room-dividers-a-natural-way-to-create-stylish-and-functional-spaces",
@@ -177,17 +177,17 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "74cd29e627a5b547247ff35944939c57"
+        "md5": "8116ce9cef2e52b0429a3796e301910c"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "f405c83baf0fb5bd5195b9d9e7f279bb"
+        "md5": "80df26d8b89d6644d7c7076a2a554114"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "020360ef239384ea0d9d7b57b36ca3bd"
+        "md5": "253eb257c176452610a0546f07d596da"
     },
     {
         "path": "low-profile-furniture-creating-calm-and-spacious-interiors",
@@ -658,6 +658,81 @@
         "path": "/media/posts/15/responsive/images-2026-10-25T231654.713-xs.jpg",
         "type": "file",
         "md5": "2fa5cc445c923432d2ee1ecdd6acea8d"
+    },
+    {
+        "path": "media/posts/16",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/images-2026-10-27T093150.865.jpg",
+        "type": "file",
+        "md5": "feb7d434708773456d109d5ab5ecce99"
+    },
+    {
+        "path": "/media/posts/16/images-2026-10-27T093209.873.jpg",
+        "type": "file",
+        "md5": "436361a1952862acb7c75dfdb32bb2d1"
+    },
+    {
+        "path": "media/posts/16/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-27T093150.865-lg.jpg",
+        "type": "file",
+        "md5": "0502a77ddb37eb9e77bc34cc3700f1a8"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-27T093150.865-md.jpg",
+        "type": "file",
+        "md5": "0502a77ddb37eb9e77bc34cc3700f1a8"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-27T093150.865-sm.jpg",
+        "type": "file",
+        "md5": "0502a77ddb37eb9e77bc34cc3700f1a8"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-27T093150.865-xs.jpg",
+        "type": "file",
+        "md5": "3b89d2556e84d122aed807819226b9a6"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-27T093209.873-2xl.jpg",
+        "type": "file",
+        "md5": "9ee5052ccf4c0b51773ac3f854b944cb"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-27T093209.873-lg.jpg",
+        "type": "file",
+        "md5": "9ee5052ccf4c0b51773ac3f854b944cb"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-27T093209.873-md.jpg",
+        "type": "file",
+        "md5": "9ee5052ccf4c0b51773ac3f854b944cb"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-27T093209.873-sm.jpg",
+        "type": "file",
+        "md5": "9ee5052ccf4c0b51773ac3f854b944cb"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-27T093209.873-sm2.jpg",
+        "type": "file",
+        "md5": "7fc1830a2eba2dbc3a7c9e8f7e83e953"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-27T093209.873-xl.jpg",
+        "type": "file",
+        "md5": "9ee5052ccf4c0b51773ac3f854b944cb"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-27T093209.873-xs.jpg",
+        "type": "file",
+        "md5": "ea95b553ed0a04c7421f97ce108d5239"
     },
     {
         "path": "media/posts/4",
@@ -1162,7 +1237,7 @@
     {
         "path": "/minimalist-bedside-tables-simple-designs-for-a-peaceful-and-stylish-bedroom/index.html",
         "type": "file",
-        "md5": "7479ac296ca113cb99d2775ac2858d82"
+        "md5": "2a29d609f098ce54b008bec23179c8ed"
     },
     {
         "path": "off-white-tones-creating-bright-elegant-and-timeless-interiors",
@@ -1172,7 +1247,17 @@
     {
         "path": "/off-white-tones-creating-bright-elegant-and-timeless-interiors/index.html",
         "type": "file",
-        "md5": "8525311b33c59d5de9903714d16fc951"
+        "md5": "e8776e7757340adcb2023329a4da479a"
+    },
+    {
+        "path": "off-white-tones-creating-calm-elegant-and-timeless-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/off-white-tones-creating-calm-elegant-and-timeless-interiors/index.html",
+        "type": "file",
+        "md5": "f97058cf33bfa1792b148c682e0bb979"
     },
     {
         "path": "page",
@@ -1187,7 +1272,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "ba2cc9f06c8a1b443c64589fc9ec9c5c"
+        "md5": "8d8f1fb1c6b8138984239953b25d4a4a"
     },
     {
         "path": "platform-beds-creating-a-calm-and-contemporary-bedroom-retreat",
@@ -1197,7 +1282,7 @@
     {
         "path": "/platform-beds-creating-a-calm-and-contemporary-bedroom-retreat/index.html",
         "type": "file",
-        "md5": "df9c051568f0e39b02b7e846f97edd3d"
+        "md5": "3c9806de7da2d29366303ffc2e906557"
     },
     {
         "path": "privacy-policy",
@@ -1217,7 +1302,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "069fc3271e2bc39a69ca6449c196a73b"
+        "md5": "ec72f0d5c56a48d81f006cc38ece3ce4"
     },
     {
         "path": "sitemap.xsl",
@@ -1232,7 +1317,7 @@
     {
         "path": "/soft-grays-creating-elegant-and-serene-spaces-with-timeless-color/index.html",
         "type": "file",
-        "md5": "d55ebf85304dfba5d52d7dee7052d5f6"
+        "md5": "711b4dbf5ee798d53e49342a43c16c09"
     },
     {
         "path": "tags",
@@ -1282,7 +1367,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "17f6cfb0016f93d744261f35d72c1a33"
+        "md5": "619efecc0c7a7dffceefc7a65c1b9441"
     },
     {
         "path": "tags/japandi-interior-style",
@@ -1332,7 +1417,7 @@
     {
         "path": "/tags/neutral-color-palettes/index.html",
         "type": "file",
-        "md5": "13f234f7b0e8b0bf567f7e2aff6c036f"
+        "md5": "01b87ede15b3d7cf18ed6fad3bdac8a3"
     },
     {
         "path": "tags/off-white-tones",
@@ -1342,7 +1427,7 @@
     {
         "path": "/tags/off-white-tones/index.html",
         "type": "file",
-        "md5": "bec2d6cab52a67fac8dc609996e99de8"
+        "md5": "65e60aa9ca72a7ab6b38cef731a4abe9"
     },
     {
         "path": "tags/platform-beds",
@@ -1422,6 +1507,6 @@
     {
         "path": "/warm-beiges-creating-cozy-and-timeless-interiors/index.html",
         "type": "file",
-        "md5": "592738829d034e065fbbfe3b622d4d47"
+        "md5": "1352e601c4f96e027bbcd33d29dae602"
     }
 ]
