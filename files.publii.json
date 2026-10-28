@@ -5,6 +5,16 @@
         "md5": "1947591c6935914b29c2984ae8aeb428"
     },
     {
+        "path": "a-natural-touch-for-stylish-and-modern-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/a-natural-touch-for-stylish-and-modern-interiors/index.html",
+        "type": "file",
+        "md5": "8112acc6689b2c172b080245c9956057"
+    },
+    {
         "path": "about-us",
         "type": "directory",
         "md5": false
@@ -107,7 +117,7 @@
     {
         "path": "/authors/henry-m-cooke/index.html",
         "type": "file",
-        "md5": "a2f6432608389db72c4a7902f439179a"
+        "md5": "dc15a09ca930cc8cfe8b418981697c27"
     },
     {
         "path": "authors/henry-m-cooke/page",
@@ -122,7 +132,7 @@
     {
         "path": "/authors/henry-m-cooke/page/2/index.html",
         "type": "file",
-        "md5": "b3a1fcb7e682576333bbcbd371795af7"
+        "md5": "beaf6fa7e1c061557be33d3e7630e881"
     },
     {
         "path": "bamboo-room-dividers-a-natural-way-to-create-stylish-and-functional-spaces",
@@ -132,7 +142,7 @@
     {
         "path": "/bamboo-room-dividers-a-natural-way-to-create-stylish-and-functional-spaces/index.html",
         "type": "file",
-        "md5": "7196be79d4d4a4a2e5079cf786b29a09"
+        "md5": "5bb17b98208b12311687a9742c2fc49a"
     },
     {
         "path": "cane-webbing-panels-timeless-texture-for-modern-interior-design",
@@ -142,7 +152,7 @@
     {
         "path": "/cane-webbing-panels-timeless-texture-for-modern-interior-design/index.html",
         "type": "file",
-        "md5": "54b70121846738c8e074161640b63038"
+        "md5": "a691ccad21567e8b33918f9edcee1aff"
     },
     {
         "path": "clean-wooden-lines-bringing-natural-elegance-to-modern-interiors",
@@ -177,17 +187,17 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "8116ce9cef2e52b0429a3796e301910c"
+        "md5": "56403c3102a6fa9d9dd14e89d9a6c676"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "80df26d8b89d6644d7c7076a2a554114"
+        "md5": "fc508573ec7221942630b8aeece2ef31"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "253eb257c176452610a0546f07d596da"
+        "md5": "62ba6b7c9ab9098fb29d6c4c8e38e279"
     },
     {
         "path": "low-profile-furniture-creating-calm-and-spacious-interiors",
@@ -735,6 +745,81 @@
         "md5": "ea95b553ed0a04c7421f97ce108d5239"
     },
     {
+        "path": "media/posts/17",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/images-2026-10-29T005205.262.jpg",
+        "type": "file",
+        "md5": "fb12009cbbee39bbaecba62cb3c225e1"
+    },
+    {
+        "path": "/media/posts/17/images-2026-10-29T005210.253.jpg",
+        "type": "file",
+        "md5": "5c6ce4a6e858d5c4bfd6d1fbc3e25ca8"
+    },
+    {
+        "path": "media/posts/17/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-29T005205.262-lg.jpg",
+        "type": "file",
+        "md5": "84f3d6af10b173e637dda1b04c7f0e97"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-29T005205.262-md.jpg",
+        "type": "file",
+        "md5": "84f3d6af10b173e637dda1b04c7f0e97"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-29T005205.262-sm.jpg",
+        "type": "file",
+        "md5": "84f3d6af10b173e637dda1b04c7f0e97"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-29T005205.262-xs.jpg",
+        "type": "file",
+        "md5": "84f3d6af10b173e637dda1b04c7f0e97"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-29T005210.253-2xl.jpg",
+        "type": "file",
+        "md5": "f82b61873b609ebe51dca6a59c00baab"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-29T005210.253-lg.jpg",
+        "type": "file",
+        "md5": "f82b61873b609ebe51dca6a59c00baab"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-29T005210.253-md.jpg",
+        "type": "file",
+        "md5": "f82b61873b609ebe51dca6a59c00baab"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-29T005210.253-sm.jpg",
+        "type": "file",
+        "md5": "f82b61873b609ebe51dca6a59c00baab"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-29T005210.253-sm2.jpg",
+        "type": "file",
+        "md5": "1db9ca73ca66d9702294fc2d14956064"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-29T005210.253-xl.jpg",
+        "type": "file",
+        "md5": "f82b61873b609ebe51dca6a59c00baab"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-10-29T005210.253-xs.jpg",
+        "type": "file",
+        "md5": "c167c941dc1b38a33722277f83accbf8"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1237,7 +1322,7 @@
     {
         "path": "/minimalist-bedside-tables-simple-designs-for-a-peaceful-and-stylish-bedroom/index.html",
         "type": "file",
-        "md5": "2a29d609f098ce54b008bec23179c8ed"
+        "md5": "412e68333eb4da83c073a442b139e619"
     },
     {
         "path": "off-white-tones-creating-bright-elegant-and-timeless-interiors",
@@ -1257,7 +1342,7 @@
     {
         "path": "/off-white-tones-creating-calm-elegant-and-timeless-interiors/index.html",
         "type": "file",
-        "md5": "f97058cf33bfa1792b148c682e0bb979"
+        "md5": "01370eadd1d0cd495dcd2d4f7af27461"
     },
     {
         "path": "page",
@@ -1272,7 +1357,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "8d8f1fb1c6b8138984239953b25d4a4a"
+        "md5": "5bf85fbad3bd47a3bf2642ba38e76977"
     },
     {
         "path": "platform-beds-creating-a-calm-and-contemporary-bedroom-retreat",
@@ -1302,7 +1387,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "ec72f0d5c56a48d81f006cc38ece3ce4"
+        "md5": "2b1f2160ee9140d037c1be49ef560500"
     },
     {
         "path": "sitemap.xsl",
@@ -1352,7 +1437,7 @@
     {
         "path": "/tags/cane-webbing-panels/index.html",
         "type": "file",
-        "md5": "456892475967b9c43a6d4ee68372f82a"
+        "md5": "b62de99bbaf907a879501fcf55971049"
     },
     {
         "path": "tags/clean-wooden-lines",
@@ -1367,7 +1452,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "619efecc0c7a7dffceefc7a65c1b9441"
+        "md5": "4afcfd19fa7af78720aaedc971289278"
     },
     {
         "path": "tags/japandi-interior-style",
@@ -1407,7 +1492,7 @@
     {
         "path": "/tags/natural-materials-and-bamboo/index.html",
         "type": "file",
-        "md5": "e862f74035b4725efb68b3cbbbcb245f"
+        "md5": "0f43e1f5aada96d405ac756d2623b1e4"
     },
     {
         "path": "tags/neutral-color-palettes",
@@ -1497,7 +1582,7 @@
     {
         "path": "/tatami-mats-bringing-japanese-simplicity-and-natural-comfort-into-your-home/index.html",
         "type": "file",
-        "md5": "0fd7a7f09ac0199e9282da0045a92d3b"
+        "md5": "f937513ed56e000b9c16d84f6d51faad"
     },
     {
         "path": "warm-beiges-creating-cozy-and-timeless-interiors",
