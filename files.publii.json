@@ -15,6 +15,16 @@
         "md5": "dfb151f9888bd666990046e03cdc673c"
     },
     {
+        "path": "a-stylish-approach-to-modern-and-minimalist-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/a-stylish-approach-to-modern-and-minimalist-interiors/index.html",
+        "type": "file",
+        "md5": "fbf43e1e774e0917519dbd8ac8357ac8"
+    },
+    {
         "path": "a-timeless-addition-to-elegant-and-modern-interiors",
         "type": "directory",
         "md5": false
@@ -127,7 +137,7 @@
     {
         "path": "/authors/henry-m-cooke/index.html",
         "type": "file",
-        "md5": "f9daf07634030254de4866658dddbecf"
+        "md5": "bb98440dd0327889c3e848818f1b912c"
     },
     {
         "path": "authors/henry-m-cooke/page",
@@ -142,7 +152,7 @@
     {
         "path": "/authors/henry-m-cooke/page/2/index.html",
         "type": "file",
-        "md5": "769f1c32ff7755188adfe8d287098b4e"
+        "md5": "1406ae5ca0939b9afa8c99bed16e4562"
     },
     {
         "path": "bamboo-room-dividers-a-natural-way-to-create-stylish-and-functional-spaces",
@@ -162,7 +172,7 @@
     {
         "path": "/bringing-natural-elegance-and-simplicity-into-your-home/index.html",
         "type": "file",
-        "md5": "419ab2490f8100098ae10c99d2beb078"
+        "md5": "c61c1dc4009a5db9137207916db9f0e6"
     },
     {
         "path": "cane-webbing-panels-timeless-texture-for-modern-interior-design",
@@ -182,7 +192,7 @@
     {
         "path": "/clean-wooden-lines-bringing-natural-elegance-to-modern-interiors/index.html",
         "type": "file",
-        "md5": "4a09c18308af2434527ff21e17382bf7"
+        "md5": "8fa3923a6188f62c8320cce8967aef9f"
     },
     {
         "path": "contact-us",
@@ -207,17 +217,17 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "f713b5bdef5a503cda5519d39cde6ff4"
+        "md5": "fa00f0a6fa8d51031bf18c4e6e9139e6"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "97abe693b1f490bcaa4f26f8d7364d6a"
+        "md5": "522bf727281f5fec91f2af7c0b8a7ff5"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "25061c59229f528437f3f1b8e66263aa"
+        "md5": "c7d4e3b14d2b2af02d3b9ef06aa2eeff"
     },
     {
         "path": "low-profile-furniture-creating-calm-and-spacious-interiors",
@@ -227,7 +237,7 @@
     {
         "path": "/low-profile-furniture-creating-calm-and-spacious-interiors/index.html",
         "type": "file",
-        "md5": "a92fee33ed4c1b760b8f2e2cb1b60eac"
+        "md5": "348b9a529fd40b77dec72c1686b196c0"
     },
     {
         "path": "media",
@@ -990,6 +1000,81 @@
         "md5": "75add555643be5075db5fb7b0b2d2daa"
     },
     {
+        "path": "media/posts/20",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/20/images-20.jpg",
+        "type": "file",
+        "md5": "ad5d22e96bc47d25740250cf539fa0fc"
+    },
+    {
+        "path": "/media/posts/20/images-21.jpg",
+        "type": "file",
+        "md5": "fea29db4f332bef5ec8a0e06b1c5e969"
+    },
+    {
+        "path": "media/posts/20/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/20/responsive/images-20-lg.jpg",
+        "type": "file",
+        "md5": "764db5ea499832e7d983867103bfaabf"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-20-md.jpg",
+        "type": "file",
+        "md5": "764db5ea499832e7d983867103bfaabf"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-20-sm.jpg",
+        "type": "file",
+        "md5": "ee85d2bfa2ec758354c20efd8d399d93"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-20-xs.jpg",
+        "type": "file",
+        "md5": "f68757b085dfc68e7509e1c0ce155c9e"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-21-2xl.jpg",
+        "type": "file",
+        "md5": "baa004ea5f338ef5c550ad6cd6a22e10"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-21-lg.jpg",
+        "type": "file",
+        "md5": "baa004ea5f338ef5c550ad6cd6a22e10"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-21-md.jpg",
+        "type": "file",
+        "md5": "baa004ea5f338ef5c550ad6cd6a22e10"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-21-sm.jpg",
+        "type": "file",
+        "md5": "baa004ea5f338ef5c550ad6cd6a22e10"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-21-sm2.jpg",
+        "type": "file",
+        "md5": "acf23b94c3cc2a48265cdfaf319eb998"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-21-xl.jpg",
+        "type": "file",
+        "md5": "baa004ea5f338ef5c550ad6cd6a22e10"
+    },
+    {
+        "path": "/media/posts/20/responsive/images-21-xs.jpg",
+        "type": "file",
+        "md5": "babd30105930f00b25fadb72d7e05519"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1492,7 +1577,7 @@
     {
         "path": "/minimalist-bedside-tables-simple-designs-for-a-peaceful-and-stylish-bedroom/index.html",
         "type": "file",
-        "md5": "412e68333eb4da83c073a442b139e619"
+        "md5": "2366fa5be84048635872b0bc086da5c4"
     },
     {
         "path": "off-white-tones-creating-bright-elegant-and-timeless-interiors",
@@ -1527,7 +1612,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "6637db6ac450c2d2df2d34edc0606c3b"
+        "md5": "c5d527192fcaf43ca504a48e1c8139e1"
     },
     {
         "path": "platform-beds-creating-a-calm-and-contemporary-bedroom-retreat",
@@ -1557,7 +1642,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "d00cd1f9d184b5cf00e7de75ea4f201c"
+        "md5": "ee540b321711df7b2e97ca3a409a9817"
     },
     {
         "path": "sitemap.xsl",
@@ -1622,7 +1707,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "d99fc5712b210af17c7964733f47bc0b"
+        "md5": "a076374348622a97629d2c381703d2a7"
     },
     {
         "path": "tags/japandi-interior-style",
@@ -1632,7 +1717,7 @@
     {
         "path": "/tags/japandi-interior-style/index.html",
         "type": "file",
-        "md5": "bd7132ec5cb62058c333e15d8647b01f"
+        "md5": "ab617c8878da8a94c73f4b540f6f5036"
     },
     {
         "path": "tags/low-profile-furniture",
@@ -1642,7 +1727,7 @@
     {
         "path": "/tags/low-profile-furniture/index.html",
         "type": "file",
-        "md5": "ad76364f5efbbec7d27ed180bfbc7333"
+        "md5": "489c8a793406430f425f59462f7f7cf7"
     },
     {
         "path": "tags/minimalist-bedside-tables",
