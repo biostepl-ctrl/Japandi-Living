@@ -22,7 +22,7 @@
     {
         "path": "/a-stylish-approach-to-modern-and-minimalist-interiors/index.html",
         "type": "file",
-        "md5": "fbf43e1e774e0917519dbd8ac8357ac8"
+        "md5": "455c0e9b61eb16e02788f138ae6e5bdd"
     },
     {
         "path": "a-timeless-addition-to-elegant-and-modern-interiors",
@@ -137,7 +137,7 @@
     {
         "path": "/authors/henry-m-cooke/index.html",
         "type": "file",
-        "md5": "bb98440dd0327889c3e848818f1b912c"
+        "md5": "257eebe41f2e98f73ee055a335533972"
     },
     {
         "path": "authors/henry-m-cooke/page",
@@ -152,7 +152,7 @@
     {
         "path": "/authors/henry-m-cooke/page/2/index.html",
         "type": "file",
-        "md5": "1406ae5ca0939b9afa8c99bed16e4562"
+        "md5": "2cbeaa81af8a05d2cf17643847504ae8"
     },
     {
         "path": "bamboo-room-dividers-a-natural-way-to-create-stylish-and-functional-spaces",
@@ -205,6 +205,16 @@
         "md5": "0d751348065179214f9d5f306a42e2c2"
     },
     {
+        "path": "creating-a-calm-and-elegant-home-with-beautiful-neutral-colors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creating-a-calm-and-elegant-home-with-beautiful-neutral-colors/index.html",
+        "type": "file",
+        "md5": "81e716c8da4a3665e2caf9160484cac2"
+    },
+    {
         "path": "creating-a-peaceful-home-through-natural-beauty",
         "type": "directory",
         "md5": false
@@ -217,17 +227,17 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "fa00f0a6fa8d51031bf18c4e6e9139e6"
+        "md5": "97b3ea0ba449dd9cf2fe3bae7e4b002b"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "522bf727281f5fec91f2af7c0b8a7ff5"
+        "md5": "7fecd889d0c46a1894d5f3b103330225"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "c7d4e3b14d2b2af02d3b9ef06aa2eeff"
+        "md5": "054219b0ac26479b2ba46bb5237e31a2"
     },
     {
         "path": "low-profile-furniture-creating-calm-and-spacious-interiors",
@@ -1075,6 +1085,81 @@
         "md5": "babd30105930f00b25fadb72d7e05519"
     },
     {
+        "path": "media/posts/21",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/21/images-2026-11-11T094917.843.jpg",
+        "type": "file",
+        "md5": "d0125be82c997292de3ad6b4b223bae7"
+    },
+    {
+        "path": "/media/posts/21/images-2026-11-11T094928.479.jpg",
+        "type": "file",
+        "md5": "1df77de3f34b32d62e74af52d65f518a"
+    },
+    {
+        "path": "media/posts/21/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-11-11T094917.843-lg.jpg",
+        "type": "file",
+        "md5": "1d528b6fbd6d3b398052ffdd8c176000"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-11-11T094917.843-md.jpg",
+        "type": "file",
+        "md5": "1d528b6fbd6d3b398052ffdd8c176000"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-11-11T094917.843-sm.jpg",
+        "type": "file",
+        "md5": "1d528b6fbd6d3b398052ffdd8c176000"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-11-11T094917.843-xs.jpg",
+        "type": "file",
+        "md5": "cfc6cecd90c240eec0b5cca14d96a975"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-11-11T094928.479-2xl.jpg",
+        "type": "file",
+        "md5": "c507b23dbdb8a765e0c60be30ea6dd57"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-11-11T094928.479-lg.jpg",
+        "type": "file",
+        "md5": "c507b23dbdb8a765e0c60be30ea6dd57"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-11-11T094928.479-md.jpg",
+        "type": "file",
+        "md5": "c507b23dbdb8a765e0c60be30ea6dd57"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-11-11T094928.479-sm.jpg",
+        "type": "file",
+        "md5": "c507b23dbdb8a765e0c60be30ea6dd57"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-11-11T094928.479-sm2.jpg",
+        "type": "file",
+        "md5": "c507b23dbdb8a765e0c60be30ea6dd57"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-11-11T094928.479-xl.jpg",
+        "type": "file",
+        "md5": "c507b23dbdb8a765e0c60be30ea6dd57"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-11-11T094928.479-xs.jpg",
+        "type": "file",
+        "md5": "c507b23dbdb8a765e0c60be30ea6dd57"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1612,7 +1697,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "c5d527192fcaf43ca504a48e1c8139e1"
+        "md5": "26233d784066b77898f6abb03758e4fd"
     },
     {
         "path": "platform-beds-creating-a-calm-and-contemporary-bedroom-retreat",
@@ -1642,7 +1727,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "ee540b321711df7b2e97ca3a409a9817"
+        "md5": "f42a23f136f1394b1a3f7d4fb281c488"
     },
     {
         "path": "sitemap.xsl",
@@ -1657,7 +1742,7 @@
     {
         "path": "/soft-grays-creating-elegant-and-serene-spaces-with-timeless-color/index.html",
         "type": "file",
-        "md5": "711b4dbf5ee798d53e49342a43c16c09"
+        "md5": "96ab0decaada9e2d299cdd9fe1ad6d03"
     },
     {
         "path": "tags",
@@ -1707,7 +1792,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "a076374348622a97629d2c381703d2a7"
+        "md5": "f1c4c640e1bcf64d265ba31a9242c5dd"
     },
     {
         "path": "tags/japandi-interior-style",
@@ -1757,7 +1842,7 @@
     {
         "path": "/tags/neutral-color-palettes/index.html",
         "type": "file",
-        "md5": "01b87ede15b3d7cf18ed6fad3bdac8a3"
+        "md5": "9ce4e093a2cf4b54118be420b767224c"
     },
     {
         "path": "tags/off-white-tones",
@@ -1787,7 +1872,7 @@
     {
         "path": "/tags/soft-grays/index.html",
         "type": "file",
-        "md5": "4eaf8626307edb2197704b4e296e664f"
+        "md5": "a0a51793c585efcd008eeeb07a0c56b0"
     },
     {
         "path": "tags/tatami-mats",
@@ -1847,6 +1932,6 @@
     {
         "path": "/warm-beiges-creating-cozy-and-timeless-interiors/index.html",
         "type": "file",
-        "md5": "1352e601c4f96e027bbcd33d29dae602"
+        "md5": "c65010499cc1b1d565162f341af18138"
     }
 ]
