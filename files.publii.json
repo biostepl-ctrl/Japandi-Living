@@ -137,7 +137,7 @@
     {
         "path": "/authors/henry-m-cooke/index.html",
         "type": "file",
-        "md5": "257eebe41f2e98f73ee055a335533972"
+        "md5": "91d0fedfa7a217a08fa45a6ffc639c36"
     },
     {
         "path": "authors/henry-m-cooke/page",
@@ -152,7 +152,7 @@
     {
         "path": "/authors/henry-m-cooke/page/2/index.html",
         "type": "file",
-        "md5": "2cbeaa81af8a05d2cf17643847504ae8"
+        "md5": "c05628f4582bcc7554ab274ac7d0409c"
     },
     {
         "path": "bamboo-room-dividers-a-natural-way-to-create-stylish-and-functional-spaces",
@@ -212,7 +212,17 @@
     {
         "path": "/creating-a-calm-and-elegant-home-with-beautiful-neutral-colors/index.html",
         "type": "file",
-        "md5": "81e716c8da4a3665e2caf9160484cac2"
+        "md5": "d176b48c4724b2e8a05c7c48f9f06ebb"
+    },
+    {
+        "path": "creating-a-cozy-and-timeless-home-with-natural-interior-colors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creating-a-cozy-and-timeless-home-with-natural-interior-colors/index.html",
+        "type": "file",
+        "md5": "b00b9c2ccaf2945c345244d30979da27"
     },
     {
         "path": "creating-a-peaceful-home-through-natural-beauty",
@@ -227,17 +237,17 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "97b3ea0ba449dd9cf2fe3bae7e4b002b"
+        "md5": "ac12edf05d33297e4ff9e42cd6fd976f"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "7fecd889d0c46a1894d5f3b103330225"
+        "md5": "bdf46508bdf39961d218a3c2e906cd14"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "054219b0ac26479b2ba46bb5237e31a2"
+        "md5": "ecfefdce1691ffe41101f74e845dc380"
     },
     {
         "path": "low-profile-furniture-creating-calm-and-spacious-interiors",
@@ -1160,6 +1170,81 @@
         "md5": "c507b23dbdb8a765e0c60be30ea6dd57"
     },
     {
+        "path": "media/posts/22",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/22/images-2026-11-14T103301.047.jpg",
+        "type": "file",
+        "md5": "b4ac9cda66ceedc8765129af8411b284"
+    },
+    {
+        "path": "/media/posts/22/images-2026-11-14T103320.034.jpg",
+        "type": "file",
+        "md5": "4f265dff1bca2124fdca11214c8195c1"
+    },
+    {
+        "path": "media/posts/22/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-11-14T103301.047-lg.jpg",
+        "type": "file",
+        "md5": "b4788e15d5721b49f0840bbdb9c3da17"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-11-14T103301.047-md.jpg",
+        "type": "file",
+        "md5": "b4788e15d5721b49f0840bbdb9c3da17"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-11-14T103301.047-sm.jpg",
+        "type": "file",
+        "md5": "b4788e15d5721b49f0840bbdb9c3da17"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-11-14T103301.047-xs.jpg",
+        "type": "file",
+        "md5": "bfec8d22964c6f9462d37effd51accab"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-11-14T103320.034-2xl.jpg",
+        "type": "file",
+        "md5": "a0df487972952ee7c128589379a86420"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-11-14T103320.034-lg.jpg",
+        "type": "file",
+        "md5": "a0df487972952ee7c128589379a86420"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-11-14T103320.034-md.jpg",
+        "type": "file",
+        "md5": "a0df487972952ee7c128589379a86420"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-11-14T103320.034-sm.jpg",
+        "type": "file",
+        "md5": "a0df487972952ee7c128589379a86420"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-11-14T103320.034-sm2.jpg",
+        "type": "file",
+        "md5": "e237af79a4b4406543d01fc6b73167a1"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-11-14T103320.034-xl.jpg",
+        "type": "file",
+        "md5": "a0df487972952ee7c128589379a86420"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-11-14T103320.034-xs.jpg",
+        "type": "file",
+        "md5": "97a62e727e0e8b2506e156bb7af8537d"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1672,7 +1757,7 @@
     {
         "path": "/off-white-tones-creating-bright-elegant-and-timeless-interiors/index.html",
         "type": "file",
-        "md5": "e8776e7757340adcb2023329a4da479a"
+        "md5": "83e049f1f4b93391bf101a86a175412e"
     },
     {
         "path": "off-white-tones-creating-calm-elegant-and-timeless-interiors",
@@ -1682,7 +1767,7 @@
     {
         "path": "/off-white-tones-creating-calm-elegant-and-timeless-interiors/index.html",
         "type": "file",
-        "md5": "01370eadd1d0cd495dcd2d4f7af27461"
+        "md5": "554b42758e5d34243ff089e5dc232175"
     },
     {
         "path": "page",
@@ -1697,7 +1782,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "26233d784066b77898f6abb03758e4fd"
+        "md5": "978cd8af205db7a2e1b4ff7ab3b1ca85"
     },
     {
         "path": "platform-beds-creating-a-calm-and-contemporary-bedroom-retreat",
@@ -1727,7 +1812,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "f42a23f136f1394b1a3f7d4fb281c488"
+        "md5": "4eac860cdd89918722bdd69312669846"
     },
     {
         "path": "sitemap.xsl",
@@ -1742,7 +1827,7 @@
     {
         "path": "/soft-grays-creating-elegant-and-serene-spaces-with-timeless-color/index.html",
         "type": "file",
-        "md5": "96ab0decaada9e2d299cdd9fe1ad6d03"
+        "md5": "aa2c6fb50a43b96221c341d0cb5fdf40"
     },
     {
         "path": "tags",
@@ -1792,7 +1877,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "f1c4c640e1bcf64d265ba31a9242c5dd"
+        "md5": "fdb3b85dc336f7c44a538bf72bd9f651"
     },
     {
         "path": "tags/japandi-interior-style",
@@ -1842,7 +1927,7 @@
     {
         "path": "/tags/neutral-color-palettes/index.html",
         "type": "file",
-        "md5": "9ce4e093a2cf4b54118be420b767224c"
+        "md5": "da29dbc4ef6dc5200fc662ce88a814f3"
     },
     {
         "path": "tags/off-white-tones",
@@ -1902,7 +1987,7 @@
     {
         "path": "/tags/warm-beiges/index.html",
         "type": "file",
-        "md5": "795f618ed29bc8f3c44180b194e9c051"
+        "md5": "a2215c5782268adee591e31b37ccd007"
     },
     {
         "path": "tags/zen-bedroom-design",
@@ -1932,6 +2017,6 @@
     {
         "path": "/warm-beiges-creating-cozy-and-timeless-interiors/index.html",
         "type": "file",
-        "md5": "c65010499cc1b1d565162f341af18138"
+        "md5": "e0d184f29decc464db9f71399f608b5d"
     }
 ]
