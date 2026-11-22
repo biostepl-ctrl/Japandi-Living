@@ -137,7 +137,7 @@
     {
         "path": "/authors/henry-m-cooke/index.html",
         "type": "file",
-        "md5": "91d0fedfa7a217a08fa45a6ffc639c36"
+        "md5": "83c7f0faa51bd0478ad8782bc8691bf2"
     },
     {
         "path": "authors/henry-m-cooke/page",
@@ -152,7 +152,7 @@
     {
         "path": "/authors/henry-m-cooke/page/2/index.html",
         "type": "file",
-        "md5": "c05628f4582bcc7554ab274ac7d0409c"
+        "md5": "d72c104efeabe9fe8ba6ffb48da93d67"
     },
     {
         "path": "bamboo-room-dividers-a-natural-way-to-create-stylish-and-functional-spaces",
@@ -172,7 +172,7 @@
     {
         "path": "/bringing-natural-elegance-and-simplicity-into-your-home/index.html",
         "type": "file",
-        "md5": "c61c1dc4009a5db9137207916db9f0e6"
+        "md5": "0f84c40d7fbccefb834190248c227fb0"
     },
     {
         "path": "cane-webbing-panels-timeless-texture-for-modern-interior-design",
@@ -222,7 +222,7 @@
     {
         "path": "/creating-a-cozy-and-timeless-home-with-natural-interior-colors/index.html",
         "type": "file",
-        "md5": "b00b9c2ccaf2945c345244d30979da27"
+        "md5": "1bbbc7dd8fb2198b9c21ff4449092eb2"
     },
     {
         "path": "creating-a-peaceful-home-through-natural-beauty",
@@ -232,22 +232,32 @@
     {
         "path": "/creating-a-peaceful-home-through-natural-beauty/index.html",
         "type": "file",
-        "md5": "7bd08cf15fc10b65b8c5e7ed457934ab"
+        "md5": "b0551e0339db9f541990e53d74aae670"
+    },
+    {
+        "path": "embracing-natural-beauty-creating-a-calm-and-timeless-home-through-thoughtful-interior-design",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/embracing-natural-beauty-creating-a-calm-and-timeless-home-through-thoughtful-interior-design/index.html",
+        "type": "file",
+        "md5": "0a67a9795b99cf41ca331995b19afab0"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "ac12edf05d33297e4ff9e42cd6fd976f"
+        "md5": "7d81f9e310d3968b6caadb12533bea49"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "bdf46508bdf39961d218a3c2e906cd14"
+        "md5": "611b85d70b2af59979ec57ed7aa54fa5"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "ecfefdce1691ffe41101f74e845dc380"
+        "md5": "23938e07ba5896413fbbe547e35f8063"
     },
     {
         "path": "low-profile-furniture-creating-calm-and-spacious-interiors",
@@ -257,7 +267,7 @@
     {
         "path": "/low-profile-furniture-creating-calm-and-spacious-interiors/index.html",
         "type": "file",
-        "md5": "348b9a529fd40b77dec72c1686b196c0"
+        "md5": "cf2cd4c05d9be5fb24e81bbf27756758"
     },
     {
         "path": "media",
@@ -1245,6 +1255,81 @@
         "md5": "97a62e727e0e8b2506e156bb7af8537d"
     },
     {
+        "path": "media/posts/23",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/23/images-2026-11-22T080839.494-2.jpg",
+        "type": "file",
+        "md5": "8937e252a82b3a5db78a140f59e5cfeb"
+    },
+    {
+        "path": "/media/posts/23/images-2026-11-22T080839.494.jpg",
+        "type": "file",
+        "md5": "8937e252a82b3a5db78a140f59e5cfeb"
+    },
+    {
+        "path": "media/posts/23/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-22T080839.494-2-lg.jpg",
+        "type": "file",
+        "md5": "f8f615eba6999752510af7cd4e0d8adc"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-22T080839.494-2-md.jpg",
+        "type": "file",
+        "md5": "f8f615eba6999752510af7cd4e0d8adc"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-22T080839.494-2-sm.jpg",
+        "type": "file",
+        "md5": "fd0a2f73c099ce75b78ddfe80e1d7dd1"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-22T080839.494-2-xs.jpg",
+        "type": "file",
+        "md5": "40dadd86b0b486f9bc6c1c6c2ab58861"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-22T080839.494-2xl.jpg",
+        "type": "file",
+        "md5": "f8f615eba6999752510af7cd4e0d8adc"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-22T080839.494-lg.jpg",
+        "type": "file",
+        "md5": "f8f615eba6999752510af7cd4e0d8adc"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-22T080839.494-md.jpg",
+        "type": "file",
+        "md5": "f8f615eba6999752510af7cd4e0d8adc"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-22T080839.494-sm.jpg",
+        "type": "file",
+        "md5": "fd0a2f73c099ce75b78ddfe80e1d7dd1"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-22T080839.494-sm2.jpg",
+        "type": "file",
+        "md5": "3c4cd249e76f9b3ec19d25ace0fe0683"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-22T080839.494-xl.jpg",
+        "type": "file",
+        "md5": "f8f615eba6999752510af7cd4e0d8adc"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-22T080839.494-xs.jpg",
+        "type": "file",
+        "md5": "40dadd86b0b486f9bc6c1c6c2ab58861"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1782,7 +1867,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "978cd8af205db7a2e1b4ff7ab3b1ca85"
+        "md5": "0fee3914aae8aa38d10f470e5670cbf1"
     },
     {
         "path": "platform-beds-creating-a-calm-and-contemporary-bedroom-retreat",
@@ -1812,7 +1897,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "4eac860cdd89918722bdd69312669846"
+        "md5": "046a23dbd4700179ca603648512cced3"
     },
     {
         "path": "sitemap.xsl",
@@ -1877,7 +1962,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "fdb3b85dc336f7c44a538bf72bd9f651"
+        "md5": "41abfc6a2b7185e174968f3d43285fc3"
     },
     {
         "path": "tags/japandi-interior-style",
@@ -1887,7 +1972,7 @@
     {
         "path": "/tags/japandi-interior-style/index.html",
         "type": "file",
-        "md5": "ab617c8878da8a94c73f4b540f6f5036"
+        "md5": "ad5bfb01d72e7a22e94ff55892bb6920"
     },
     {
         "path": "tags/low-profile-furniture",
@@ -1977,7 +2062,7 @@
     {
         "path": "/tags/wabi-sabi-aesthetics/index.html",
         "type": "file",
-        "md5": "c997ace835814e33e8d462529aab87ed"
+        "md5": "cc8986ed92714e7a2aaa4612e1c881e0"
     },
     {
         "path": "tags/warm-beiges",
