@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://kitchen-bath-gamma.vercel.app/sitemap.xml
