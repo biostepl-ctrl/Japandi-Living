@@ -12,7 +12,7 @@
     {
         "path": "/a-natural-touch-for-stylish-and-modern-interiors/index.html",
         "type": "file",
-        "md5": "901bde63431490ea4984e6c9b7634403"
+        "md5": "8f7033167179380e81d1dd3269607b23"
     },
     {
         "path": "a-stylish-approach-to-modern-and-minimalist-interiors",
@@ -22,7 +22,7 @@
     {
         "path": "/a-stylish-approach-to-modern-and-minimalist-interiors/index.html",
         "type": "file",
-        "md5": "455c0e9b61eb16e02788f138ae6e5bdd"
+        "md5": "2b5bbe91ebaf3c8677f8d533e9d02be8"
     },
     {
         "path": "a-timeless-addition-to-elegant-and-modern-interiors",
@@ -32,7 +32,7 @@
     {
         "path": "/a-timeless-addition-to-elegant-and-modern-interiors/index.html",
         "type": "file",
-        "md5": "70bb896da8b3aeb42fda21a164b6f345"
+        "md5": "52e24492a7001658f35874b2f99f581f"
     },
     {
         "path": "about-us",
@@ -52,7 +52,7 @@
     {
         "path": "/ash-wood-tables-natural-elegance-and-timeless-furniture-design/index.html",
         "type": "file",
-        "md5": "860a26e878dee6e95d80c45f3f885651"
+        "md5": "6abf17b3f89f72a251d3113aaeeec3f2"
     },
     {
         "path": "assets",
@@ -137,7 +137,7 @@
     {
         "path": "/authors/henry-m-cooke/index.html",
         "type": "file",
-        "md5": "1578b8223f396af96bf82f6ba5387963"
+        "md5": "b127d22bc39267a48e68518a6daffb3a"
     },
     {
         "path": "authors/henry-m-cooke/page",
@@ -152,7 +152,17 @@
     {
         "path": "/authors/henry-m-cooke/page/2/index.html",
         "type": "file",
-        "md5": "d8feaeca19dd840bbf7450bc77b965e8"
+        "md5": "8e27672ea23d4befc3e86cd226e22ed9"
+    },
+    {
+        "path": "authors/henry-m-cooke/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/henry-m-cooke/page/3/index.html",
+        "type": "file",
+        "md5": "ced39417d9b9df0568459948fe79a7a7"
     },
     {
         "path": "bamboo-room-dividers-a-natural-way-to-create-stylish-and-functional-spaces",
@@ -182,7 +192,7 @@
     {
         "path": "/cane-webbing-panels-timeless-texture-for-modern-interior-design/index.html",
         "type": "file",
-        "md5": "61835bf9ceda21346d6bb09f666c776c"
+        "md5": "ad1fdc63673865f9935f08ec5eb62492"
     },
     {
         "path": "clean-wooden-lines-bringing-natural-elegance-to-modern-interiors",
@@ -192,7 +202,7 @@
     {
         "path": "/clean-wooden-lines-bringing-natural-elegance-to-modern-interiors/index.html",
         "type": "file",
-        "md5": "8fa3923a6188f62c8320cce8967aef9f"
+        "md5": "7a4a5bb5edc6a032734600d679972c19"
     },
     {
         "path": "contact-us",
@@ -232,7 +242,7 @@
     {
         "path": "/creating-a-peaceful-home-through-natural-beauty/index.html",
         "type": "file",
-        "md5": "b0551e0339db9f541990e53d74aae670"
+        "md5": "4c88dbb9ab3b61116edce326c616e676"
     },
     {
         "path": "embracing-natural-beauty-creating-a-calm-and-timeless-home-through-thoughtful-interior-design",
@@ -242,22 +252,22 @@
     {
         "path": "/embracing-natural-beauty-creating-a-calm-and-timeless-home-through-thoughtful-interior-design/index.html",
         "type": "file",
-        "md5": "387329fb33a4fda8de8d0d837e2e74d8"
+        "md5": "0914f2a248abe13eb27328f94769d901"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "7926c43cb9bb530bf07fc9c076c78e93"
+        "md5": "4250552c737a4f1db7ab994cb44fae13"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "95ec271bfb154d9fb1302abb8d2cba5c"
+        "md5": "84d997d99df759c383aced40cd6f7945"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "e1427b9b9c263343851fb0dbf3ea9646"
+        "md5": "7034a841b7ba0fae967d435c4233567a"
     },
     {
         "path": "low-profile-furniture-creating-calm-and-spacious-interiors",
@@ -267,7 +277,7 @@
     {
         "path": "/low-profile-furniture-creating-calm-and-spacious-interiors/index.html",
         "type": "file",
-        "md5": "cf2cd4c05d9be5fb24e81bbf27756758"
+        "md5": "c6f6e0c7a4f3222b5e944ab25b2afb09"
     },
     {
         "path": "media",
@@ -1405,6 +1415,156 @@
         "md5": "2b87357cc5438e733090e9b06e0419e6"
     },
     {
+        "path": "media/posts/25",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/25/images-2026-11-27T225840.102-2.jpg",
+        "type": "file",
+        "md5": "97f7042824aba3869a233673d0eb728f"
+    },
+    {
+        "path": "/media/posts/25/images-2026-11-27T225840.102.jpg",
+        "type": "file",
+        "md5": "97f7042824aba3869a233673d0eb728f"
+    },
+    {
+        "path": "media/posts/25/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-27T225840.102-2-lg.jpg",
+        "type": "file",
+        "md5": "2b9c5ce476159b80cc7be256d574530c"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-27T225840.102-2-md.jpg",
+        "type": "file",
+        "md5": "2b9c5ce476159b80cc7be256d574530c"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-27T225840.102-2-sm.jpg",
+        "type": "file",
+        "md5": "1a24fd43836cde8debda09fd83f74b12"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-27T225840.102-2-xs.jpg",
+        "type": "file",
+        "md5": "bcbd9a371851e64c6a213734aadbcbe8"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-27T225840.102-2xl.jpg",
+        "type": "file",
+        "md5": "2b9c5ce476159b80cc7be256d574530c"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-27T225840.102-lg.jpg",
+        "type": "file",
+        "md5": "2b9c5ce476159b80cc7be256d574530c"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-27T225840.102-md.jpg",
+        "type": "file",
+        "md5": "2b9c5ce476159b80cc7be256d574530c"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-27T225840.102-sm.jpg",
+        "type": "file",
+        "md5": "1a24fd43836cde8debda09fd83f74b12"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-27T225840.102-sm2.jpg",
+        "type": "file",
+        "md5": "f7b84d27cd7e7a1bc6f6a4fad177d033"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-27T225840.102-xl.jpg",
+        "type": "file",
+        "md5": "2b9c5ce476159b80cc7be256d574530c"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-27T225840.102-xs.jpg",
+        "type": "file",
+        "md5": "bcbd9a371851e64c6a213734aadbcbe8"
+    },
+    {
+        "path": "media/posts/26",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/26/images-2026-11-27T230558.176.jpg",
+        "type": "file",
+        "md5": "38cc706e3166a0df87c5239b646849b7"
+    },
+    {
+        "path": "/media/posts/26/images-2026-11-27T230609.590.jpg",
+        "type": "file",
+        "md5": "599031caff13461c56c40865d7b2a1c1"
+    },
+    {
+        "path": "media/posts/26/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-27T230558.176-2xl.jpg",
+        "type": "file",
+        "md5": "1e65fba8cbec4361bcfa276a981f610a"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-27T230558.176-lg.jpg",
+        "type": "file",
+        "md5": "1e65fba8cbec4361bcfa276a981f610a"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-27T230558.176-md.jpg",
+        "type": "file",
+        "md5": "1e65fba8cbec4361bcfa276a981f610a"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-27T230558.176-sm.jpg",
+        "type": "file",
+        "md5": "218838a7325cb87c021984c9dd8d11f4"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-27T230558.176-sm2.jpg",
+        "type": "file",
+        "md5": "e11295162ae2aa871520dbe4f6d68485"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-27T230558.176-xl.jpg",
+        "type": "file",
+        "md5": "1e65fba8cbec4361bcfa276a981f610a"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-27T230558.176-xs.jpg",
+        "type": "file",
+        "md5": "52d0be6272401cd47ab6d44f3927eb2c"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-27T230609.590-lg.jpg",
+        "type": "file",
+        "md5": "4ff46bd00144a0878ab510b9f0e67ca4"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-27T230609.590-md.jpg",
+        "type": "file",
+        "md5": "4ff46bd00144a0878ab510b9f0e67ca4"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-27T230609.590-sm.jpg",
+        "type": "file",
+        "md5": "4ff46bd00144a0878ab510b9f0e67ca4"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-27T230609.590-xs.jpg",
+        "type": "file",
+        "md5": "e49adc11e91d483eda7e4bc541ee80df"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1910,6 +2070,16 @@
         "md5": "2366fa5be84048635872b0bc086da5c4"
     },
     {
+        "path": "natural-textures-and-timeless-details-in-modern-interior-design",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/natural-textures-and-timeless-details-in-modern-interior-design/index.html",
+        "type": "file",
+        "md5": "1764d9805fb3d14ebafaa873908232d7"
+    },
+    {
         "path": "natural-ways-to-create-privacy-and-style-in-modern-living-spaces",
         "type": "directory",
         "md5": false
@@ -1917,7 +2087,7 @@
     {
         "path": "/natural-ways-to-create-privacy-and-style-in-modern-living-spaces/index.html",
         "type": "file",
-        "md5": "1e65a3a9606d683d42157b658b4e2863"
+        "md5": "49514ba5662cbb6e77991fa319335674"
     },
     {
         "path": "off-white-tones-creating-bright-elegant-and-timeless-interiors",
@@ -1952,7 +2122,17 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "458d464fb77ec12e91bfacddbfb254d4"
+        "md5": "4bf8427d9435daf1a311eff0e78ab752"
+    },
+    {
+        "path": "page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/3/index.html",
+        "type": "file",
+        "md5": "c944297c73b61285304f9dd5237fe785"
     },
     {
         "path": "platform-beds-creating-a-calm-and-contemporary-bedroom-retreat",
@@ -1982,7 +2162,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "79c22ad0d5709bdd1979a826172ddb31"
+        "md5": "6c1b32e33dd59ad1ea8c4eb5110eeaa9"
     },
     {
         "path": "sitemap.xsl",
@@ -2000,6 +2180,16 @@
         "md5": "aa2c6fb50a43b96221c341d0cb5fdf40"
     },
     {
+        "path": "spacious-and-harmonious-interiors-through-thoughtful-furniture-choices",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/spacious-and-harmonious-interiors-through-thoughtful-furniture-choices/index.html",
+        "type": "file",
+        "md5": "0d9ec28a8dd03b0fa66f138b193a6e6c"
+    },
+    {
         "path": "tags",
         "type": "directory",
         "md5": false
@@ -2012,7 +2202,7 @@
     {
         "path": "/tags/ash-wood-tables/index.html",
         "type": "file",
-        "md5": "3c5f366dd817571a07073e90eeef85c4"
+        "md5": "b670dd6fc6ba526ad2c3f7ec15bd751a"
     },
     {
         "path": "tags/bamboo-room-dividers",
@@ -2032,7 +2222,7 @@
     {
         "path": "/tags/cane-webbing-panels/index.html",
         "type": "file",
-        "md5": "b62de99bbaf907a879501fcf55971049"
+        "md5": "e03701afc7c6359072ce0bfe4e06f09f"
     },
     {
         "path": "tags/clean-wooden-lines",
@@ -2047,7 +2237,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "9de6b2253a16df6efc5a95901dd1468a"
+        "md5": "4605ea1216b1fde6efa3cdeff3161bac"
     },
     {
         "path": "tags/japandi-interior-style",
@@ -2057,7 +2247,7 @@
     {
         "path": "/tags/japandi-interior-style/index.html",
         "type": "file",
-        "md5": "ad5bfb01d72e7a22e94ff55892bb6920"
+        "md5": "07d2b0b1b273b4705b229d69f88b6355"
     },
     {
         "path": "tags/low-profile-furniture",
@@ -2067,7 +2257,7 @@
     {
         "path": "/tags/low-profile-furniture/index.html",
         "type": "file",
-        "md5": "489c8a793406430f425f59462f7f7cf7"
+        "md5": "37bb1ebbadc046d7c35500f9a9c7e9ee"
     },
     {
         "path": "tags/minimalist-bedside-tables",
